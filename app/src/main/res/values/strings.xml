@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DriveJavaClient</string>
+    <string name="inputHint">Enter search parameter(s)</string>
+    <string name="searchButtonText">Search</string>
+</resources>
